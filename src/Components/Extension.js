@@ -9,7 +9,7 @@ const Extension = ({ image, title, version }) => {
         Minimum version {version}
       </span>
       <div className="bg-dot-pattern mb-4 h-1  bg-contain"></div>
-      <button className="mt-5 bg-primary duration-200 hover:bg-white hover:text-primary hover:border-2 hover:border-primary text-white p-3 w-[calc(100%-20%)] rounded">
+      <button className="mt-5 bg-primary duration-200 font-medium hover:bg-white hover:text-primary hover:border-2 hover:border-primary text-white p-3 w-[calc(100%-20%)] rounded">
         Add & Install Extension
       </button>
     </div>

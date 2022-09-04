@@ -19,7 +19,7 @@ const Faqs = () => {
           );
         })}
       </ul>
-      <button className="bg-primary rounded p-3 w-28 m-auto text-white">
+      <button className="bg-primary rounded font-medium p-3 w-28 m-auto text-white">
         More info
       </button>
     </section>

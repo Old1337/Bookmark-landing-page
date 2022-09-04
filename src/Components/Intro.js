@@ -11,7 +11,7 @@ const Intro = () => {
         />
 
         <div className="flex xl:basis-1/3 md:basis-1/2 flex-col gap-7 items-center md:items-start md:text-left text-center">
-          <h1 className="capitalize text-heading xl:text-5xl text-3xl font-medium">
+          <h1 className="capitalize text-heading xl:text-5xl text-2xl font-medium">
             a simple bookmark manager
           </h1>
           <p className="text-gray-400 leading-7">
@@ -20,7 +20,7 @@ const Intro = () => {
             free.
           </p>
           <div className="flex gap-4">
-            <button className="bg-primary rounded p-3 text-white duration-150 hover:bg-white hover:border-primary hover:border-2 hover:text-primary">
+            <button className="bg-primary rounded p-3 font-medium text-white duration-150 hover:bg-white hover:border-primary hover:border-2 hover:text-primary">
               Get in on Chrome
             </button>
             <button className="rounded p-3 shadow-md bg-white font-medium duration-150 hover:bg-white hover:border-black hover:border-2 hover:text-black">

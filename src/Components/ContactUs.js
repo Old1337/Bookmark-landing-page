@@ -19,10 +19,10 @@ const ContactUs = () => {
       className="py-16 bg-primary text-center flex flex-col gap-10"
     >
       <div className="text-white grid gap-8">
-        <span className="tracking-[0.3rem] uppercase text-xs">
+        <span className="tracking-[0.3rem] uppercase text-xs font-medium">
           35,000+ already joined
         </span>
-        <h2 className="text-3xl md:max-w-md md:m-auto">
+        <h2 className="text-3xl md:max-w-md md:m-auto font-medium">
           Stay up-to-date with what we're doing
         </h2>
       </div>

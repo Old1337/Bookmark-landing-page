@@ -43,14 +43,14 @@ const Header = () => {
           <ul>
             <li>
               <a
-                className="uppercase tracking-widest hover:text-red-400 duration-200"
+                className="uppercase  tracking-widest hover:text-red-400 duration-200"
                 href="#contact"
               >
                 contact
               </a>
             </li>
           </ul>
-          <button className="uppercase bg-red-400 text-white p-2 w-28 tracking-widest hover:bg-white duration-200 hover:text-red-400 hover:border-red-400 hover:border-2 rounded">
+          <button className="uppercase font-medium bg-red-400 text-white p-2 w-28 tracking-widest hover:bg-white duration-200 hover:text-red-400 hover:border-red-400 hover:border-2 rounded">
             login
           </button>
         </nav>
