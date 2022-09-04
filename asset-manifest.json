@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Bookmark-landing-page/static/css/main.f626330f.css",
-    "main.js": "/Bookmark-landing-page/static/js/main.fb2d2639.js",
+    "main.js": "/Bookmark-landing-page/static/js/main.2c04cfd2.js",
     "index.html": "/Bookmark-landing-page/index.html",
     "static/media/bg-dots.svg": "/Bookmark-landing-page/static/media/bg-dots.90f0b46cec8b5f7cfd12.svg",
     "static/media/icon-error.svg": "/Bookmark-landing-page/static/media/icon-error.a46cc66573dea1a15acb.svg",
     "main.f626330f.css.map": "/Bookmark-landing-page/static/css/main.f626330f.css.map",
-    "main.fb2d2639.js.map": "/Bookmark-landing-page/static/js/main.fb2d2639.js.map"
+    "main.2c04cfd2.js.map": "/Bookmark-landing-page/static/js/main.2c04cfd2.js.map"
   },
   "entrypoints": [
     "static/css/main.f626330f.css",
-    "static/js/main.fb2d2639.js"
+    "static/js/main.2c04cfd2.js"
   ]
 }
